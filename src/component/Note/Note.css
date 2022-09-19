@@ -1,0 +1,29 @@
+.note {
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 1rem;
+    min-height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    white-space: pre-wrap;
+}
+
+.note-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.delete-icon:hover {
+    scale: 1.2;
+    transform: rotateZ(20deg);
+    cursor: pointer;
+}
+
+.edit-icon:hover {
+    scale: 1.2;
+    transform: rotateZ(20deg);
+    cursor: pointer;
+}

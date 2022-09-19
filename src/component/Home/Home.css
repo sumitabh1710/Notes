@@ -1,0 +1,13 @@
+.home {
+    max-width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: "Courier New";
+    font-weight: bold;
+}
+
+.search-container {
+    margin-bottom: 1.5em;
+}
